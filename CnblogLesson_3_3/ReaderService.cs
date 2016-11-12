@@ -15,7 +15,7 @@ namespace CnblogLesson_3_3
         /// <summary>
         /// 读取文章的数据访问类对象
         /// </summary>
-        private IReaderDAL dal;
+        private IReaderDAL dal; 
 
         public ReaderService()
         {
